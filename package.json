@@ -1,0 +1,25 @@
+{
+  "name": "tdb-homework-11-note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiRoute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrybrownpdx/tdb-homework-11-note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terrybrownpdx/tdb-homework-11-note-taker/issues"
+  },
+  "homepage": "https://github.com/terrybrownpdx/tdb-homework-11-note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "uuid": "^8.3.1"
+  }
+}
